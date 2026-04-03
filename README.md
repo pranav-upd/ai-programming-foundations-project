@@ -15,6 +15,11 @@ This project performs exploratory data analysis (EDA) on a customer feedback dat
 Customer Feedback and Satisfaction Dataset
 Source: https://www.kaggle.com/datasets/jahnavipaliwal/customer-feedback-and-satisfaction
 
+## Project Repository
+
+GitHub Repository: https://github.com/pranav-upd/ai-programming-foundations-project
+
+
 ## How to Run the Project
 
 ### 1. Install Dependencies
